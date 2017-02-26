@@ -106,9 +106,11 @@ section.content {
   height: 230px;
 }
 #slide5{
-background-color: black;
-color: #fff;
-height: 200px;
-padding: 130px 0 0 0;
+background-color: #45c695;
+height: 100px;
+padding: 65px 0 0 0;
 background-size: cover;
+}
+#slide5:hover {
+  background-color: #2CAD7C;
 }

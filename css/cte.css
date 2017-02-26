@@ -1,0 +1,40 @@
+#cte1{
+background:url('../img/pen-tablet.jpg') 50% 0 no-repeat fixed;
+color: #fff;
+height: 150px;
+margin: 0;
+padding: 200px 0 260px 0;
+background-size: cover;
+}
+.segment {
+  font-family: Oswald;
+  padding-top: 50px;
+  height: 110px;
+}
+#left {
+  float: left;
+  text-align: center;
+  width: 33.33%;
+  background-color: #45c695;
+}
+#left:hover {
+  background-color: #2CAD7C;
+}
+#center:hover {
+  background-color: #2CAD7C;
+}
+#right:hover {
+  background-color: #2CAD7C;
+}
+#center {
+  float: left;
+  text-align: center;
+  width: 33.33%;
+  background-color: #45c695;
+}
+#right {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  background-color: #45c695;
+}
