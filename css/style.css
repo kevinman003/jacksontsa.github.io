@@ -3,6 +3,9 @@ margin: 0;
 padding: 0;
 width: 100%;
 }
+p {
+  font-family: Oswald;
+}
 h1 {
 font-family: Oswald;
 font-weight: normal;
@@ -63,7 +66,7 @@ section.module.parallax {
 }
 
  #slide1{
- background:url('../img/drone.jpeg') 50% 0 no-repeat fixed;
+ background:url('../img/glass.jpeg') 50% 0 no-repeat fixed;
  color: #fff;
  height: 500px;
  margin: 0;
@@ -73,7 +76,7 @@ section.module.parallax {
 section.content {
  background-color: #ffffff;
  color: #333333;
- height: 700px;
+ height: 400px;
  margin: 0 auto;
  overflow: hidden;
  padding: 200px 0;
@@ -89,4 +92,8 @@ section.content {
  width: 300px;
 
 
+}
+#wolf {
+  width: 200px;
+  padding: 0;
 }
