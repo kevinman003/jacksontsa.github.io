@@ -1,0 +1,82 @@
+body{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+p {
+  font-family: Oswald;
+}
+h1 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 55px;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+h2 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 40px;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+h3 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 16px;
+text-align: center;
+margin: 5px 0;
+padding: 0;
+z-index: 1;
+position: relative;
+}
+.center { margin: 0 auto; }
+.content{ margin: 0 auto; width: 960px; }
+.clear { clear: both; }
+#header {
+width: 100%;
+background: url('../img/header-bg.png');
+height: 80px;
+position: fixed;
+}
+#nav { width: 600px; float: right; margin-top: 20px; }
+#logo a { color: #fff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:Oswald; font-weight: bold; }
+#nav ul{
+list-style: none;
+display: block;
+margin: 0 auto;
+list-style: none;
+}
+#nav li{
+margin-top: 9px;
+float: left;
+padding-left: 21px;
+}
+#nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: Oswald; }
+#nav li a:hover { color: #fff; opacity:1; }
+section.module.content {
+  padding: 40px 0;
+}
+section.module.parallax {
+  padding: 240px 0;
+  background-position: 0 0;
+}
+
+ #teachbkgd{
+ background:url('../img/computerlab.jpg') 50% 0 no-repeat fixed;
+ color: #fff;
+ height: 200px;
+ margin: 0;
+ padding: 200px 0 260px 0;
+ background-size: cover;
+ }
+section.content {
+ background-color: #ffffff;
+ color: #333333;
+ height: 360px;
+ margin: 0 auto;
+ overflow: hidden;
+ padding: 200px 0;
+ }
